@@ -1,0 +1,24 @@
+{
+  "name": "homeserverhomepage",
+  "version": "1.0.0",
+  "description": "_website design project_",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=8888 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RokasSweets/homeserverhomepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RokasSweets/homeserverhomepage/issues"
+  },
+  "homepage": "https://github.com/RokasSweets/homeserverhomepage#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
